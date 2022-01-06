@@ -17,10 +17,10 @@ This app can be used as block wherever we need a two column page layout design.
 
 
 ### step1
-Add "echidna.two-col-layout":"0.x" in your store theme dependancies.
+Add `"echidna.two-col-layout":"0.x"` in your store theme dependancies.
 
 ### step2
-Add "two-col-layout" block, in page where you want to display two column layout.
+Add `"two-col-layout"` block, in page where you want to display two column layout.
 
 ### step3
 Declare the block with props as shown below:
