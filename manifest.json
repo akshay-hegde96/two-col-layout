@@ -1,7 +1,7 @@
 {
   "vendor": "echidna",
   "name": "two-col-layout",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Two Column Layout",
   "description": "This two-col-layout block can be used in custom vtex pages wherever we need to design 2 column structure",
   "builders": {
